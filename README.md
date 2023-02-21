@@ -1,3 +1,3 @@
-# IMTIAZ-X
+# IMTIAZ
 
 cd IMTIAZ-X
