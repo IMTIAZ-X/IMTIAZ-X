@@ -71,9 +71,8 @@ me.say_hi()
 
 
 
+<div align="center"><a href="https://github.com/IMTIAZ-X">GITHUB</a>
 
-
-##### GITHUB : https://github.com/IMTIAZ-X
-
-
-### Thanks. Don't forget to give this project star and follow our github.
+<div align="center">
+<h1>Thanks. Don't forget to give this project star and follow our github.</h1>
+</div>
