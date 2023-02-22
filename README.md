@@ -24,6 +24,13 @@ me.say_hi()
 ````
 
 <div align="center">
+	<a href="https://hits.seeyoufarm.com" title="Profile Hits"><img
+			src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ITSN0B1T4&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" /></a>
+	<a href="https://github.com/IMTIAZ-X"><img src="https://komarev.com/ghpvc/?username=ITSN0B1T4&label=Profile%20views&color=0e75b6&style=flat"
+			title="Profile Vews"></a>
+</div>
+
+<div align="center">
 	<a href="https://m.me/ITSN0B1T4" class="main">
 		<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
 	<a href="hide" class="main">
