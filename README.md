@@ -1,16 +1,13 @@
 # IMTIAZ
 
-pkg install git
+#### Install
 
-pkg install python
-
-git clone https://github.com/IMTIAZ-X/IMTIAZ-X.git
-
-ls
-
+````bash
+pkg update && upgrade -y
+pkg install git -y
+pkg install python -y
+pip install requests
+git clone  https://github.com/IMTIAZ-X/IMTIAZ-X
 cd IMTIAZ-X
-
-ls
-
 python SMS Bomber.py
-
+````
