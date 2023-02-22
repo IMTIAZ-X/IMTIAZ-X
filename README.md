@@ -4,4 +4,4 @@ pkg install git
 
 pkg install python
 
-git clone
+git clone https://github.com/IMTIAZ-X/IMTIAZ-X.git
