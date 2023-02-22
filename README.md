@@ -1,5 +1,5 @@
 <p align='center' class="main">
-<h1><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>MOHAMMAD ALAMIN ❤️
+<h1><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>IMTIAZ ❤️
 </h1>
 <div align="center">I am a noob programmer.</div>
 <br>
