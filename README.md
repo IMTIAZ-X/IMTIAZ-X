@@ -1,3 +1,7 @@
 # IMTIAZ
 
-cd IMTIAZ-X
+pkg install git
+
+pkg install python
+
+git clone
