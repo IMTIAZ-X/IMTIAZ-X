@@ -14,7 +14,7 @@ class PythonProgrammer:
         self.name = "IMTIAZ"
         self.role = "Programmer"
         self.org = "TOXIC-VIRUS"
-        self.language_spoken = ["bn_BD", "en_US"
+        self.language_spoken = ["bn_BD", "en_US"]
 
     def say_hi(self):
         print("Thanks for visiting my Github")
