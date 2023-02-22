@@ -1,32 +1,70 @@
-# IMTIAZ
+<p align='center' class="main">
+<h1><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>MOHAMMAD ALAMIN ❤️
+</h1>
+<div align="center">I am a noob programmer.</div>
+<br>
+<h3 align="left">About me :</h3>
 
-#### Install
 
-````bash
-pkg update && upgrade -y
-pkg install git -y
-pkg install python -y
-pip install requests
-git clone  https://github.com/IMTIAZ-X/IMTIAZ-X
-cd IMTIAZ-X
-python SMS Bomber.py
+````
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+class PythonProgrammer:
+    def __init__(self):
+        self.name = "IMTIAZ"
+        self.role = "Programmer"
+        self.org = "TOXIC-VIRUS"
+        self.language_spoken = ["bn_BD", "en_US"
+
+    def say_hi(self):
+        print("Thanks for visiting my Github")
+
+me = PythonProgrammer()
+me.say_hi()
 ````
 
-#### Features
- - Hide
- - Hide
- - Hide
+<div align="center">
+	<a href="https://m.me/ITSN0B1T4" class="main">
+		<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
+	<a href="hide" class="main">
+		<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+	<a href="hide" class="main">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+	<a href="https://github.com/IMTIAZ-X" class="main">
+		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+
+<div align="center">
+	<h3>Knowledge in:</h3>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+	<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+	<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+	<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+	<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+	<img src="https://img.shields.io/badge/JAVASCRIPT-00000F?style=for-the-badge&logo=JavaScript&logoColor=yellow">
+	<img src="https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase&logoColor=yellow">
+</div>
+
+<div align="center">
+  <h1>MY PROJECTS<h1>
+	<a href="https://github.com/ITSN0B1T4/wipwn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSN0B1T4&repo=WIPWN&theme=dark" height="100" width="300"></a>
+	<a href="https://github.com/ITSN0B1T4/tpcracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSN0B1T4&repo=tpcracker&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/ITSN0B1T4/ROBI-CIRCLE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSN0B1T4&repo=ROBI-CIRCLE&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/ITSN0B1T4/TXBOMBX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSN0B1T4&repo=TXBOMBX&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/ITSN0B1T4/maskurl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSN0B1T4&repo=maskurl&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/ITSN0B1T4/bash-enc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSN0B1T4&repo=bash-enc&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/ITSN0B1T4/encrypt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSN0B1T4&repo=encrypt&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/ITSN0B1T4/ushort"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSN0B1T4&repo=ushort&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/ITSN0B1T4/bpkg"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSN0B1T4&repo=bpkg&theme=dark" height="100" width="300"></a>
+</div>
 
 
-## Developers
-  * <a href="https://github.com/IMTIAZ-X">IMTIAZ</a>
 
 
-## For any help
 
-<a href="https://www.facebook.com/toxinum"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="fb" ></a>
-<a href="https://t.me/toxinum"><img src="https://img.shields.io/badge/Telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white" alt="fb" ></a><a href="mailto: "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" ></a>
-<br>
+
 
 ##### GITHUB : https://github.com/IMTIAZ-X
 
