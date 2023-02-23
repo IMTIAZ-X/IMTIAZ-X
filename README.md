@@ -1,7 +1,7 @@
 <p align='center' class="main">
 <div align="center"><h1><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>IMTIAZ ❤️</div>
 </h1>
-<div align="center">I am a noob programmer.</div>
+<div align="center">I am a new programmer.</div>
 <br>
 <h3 align="left">About me :</h3>
 
