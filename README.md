@@ -1,3 +1,7 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=24&pause=1000&color=0A96F7&width=435&lines=Welcome+To+IMTIAZ+PROFILE)](https://git.io/typing-svg) </div>
+
 <p align='center' class="main">
 <div align="center"><h1><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>IMTIAZ ❤️</div>
 </h1>
@@ -67,11 +71,20 @@ me.say_hi()
 <a href="https://github.com/ITSN0B1T4/bpkg"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSN0B1T4&repo=bpkg&theme=dark" height="100" width="300"></a>
 </div>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alifvau&show_icons=true&locale=en&layout=compact" alt="alifvau" /></p>
 
+  
+<div align="center">  
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=😍+IMTIAZ+🖤;+👿+It's+Not+Only+Just+Name+,,;It's+A+Brand+IMTIAZ-X+,,👿;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
 
-<div align="center"><a href="https://github.com/IMTIAZ-X">GITHUB</a>
+</div>
+
+<div align="center"><a href="https://github.com/IMTIAZ-X">Visit GITHUB</a>
 
 <div align="center">
 <h1>Thanks. Don't forget to give this project star and follow our github.</h1>
