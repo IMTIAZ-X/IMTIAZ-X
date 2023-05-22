@@ -1,3 +1,5 @@
+<p align="center"><img src="https://img.shields.io/badge/MADE%20IN ⚡BANGLADESHI-PROGRAMMER⚡-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=24&pause=1000&color=0A96F7&width=435&lines=Welcome+To+IMTIAZ+PROFILE)](https://git.io/typing-svg) </div>
@@ -109,6 +111,55 @@ me.say_hi()
 <img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
 
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
+	  
+	  
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- 👑 𝐍𝐀𝐌𝐄:- IMTIAZ
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- 👑 𝐀𝐆𝐄:- 18+
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- 👑 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- ONLY CHILL 
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- 👑 𝐋𝐎𝐕𝐄𝐑:- Android App Development
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- 👑 𝐈𝐍𝐒F𝐈𝐑𝐀𝐓𝐈𝐎𝐍:- MY OWN RESPONSIBLE 
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- 👑 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- 🌳🌳🌳
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- 👑 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [IMTIAZ](https://www.facebook.com/ITIMTIAZ)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- 👑 𝐅𝐁 𝐏𝐀𝐆𝐄:- [IMTIAZ](https://)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- 👑 𝐆𝐈𝐓𝐇𝐔𝐁:- [IMTIAZ](https://github.com/IMTIAZ-X)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
+
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/ITIMTIAZ)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)]()
+[![Github](https://img.shields.io/badge/Github-MR.DIPTO-156green?style=for-the-badge&logo=github)](https://github.com/IMTIAZ-X)
 
 <div align="center"><a href="https://github.com/IMTIAZ-X">Visit GITHUB</a>
 
