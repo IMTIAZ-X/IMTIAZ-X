@@ -17,44 +17,32 @@
 
 ````
 #!/usr/bin/Kotlin
-# -*- coding: JVM-1.9.0 -*-
+# -*- coding: JVM-2.0.0-Beta2 -*-
 
-fun myFunction(name: String,number: Int){
+fun myFunction(name: String,number:String){
     println(name+ "is " + number)
     
 }
 fun main() {
-    myFunction("Age ",14)
-    val firstname =("IMTIAZ")
-    val lastname =("MOHIN")
+    myFunction("My Age ","Nope")
+    val name =("IMTIAZ")
     var shortname: String = ("I,M")
     var cityname = ("City:")
     var city = "Chattogram"
-    var citylocation = "Bayazid Bostami"
     val classx =("Class:")
-    val c = 8
+    val c = "Nope"
     val full=(classx+c)
-    var sub="Subject:"
-    var subj= 14
-    val bangla =("Exgam Number:")
-    var banglanum = 100
     var score=("Null")
-    println("My Name Is $firstname $lastname")
-    println(cityname.plus(city + "," + citylocation))
+    println("My Name Is $name")
+    println(cityname.plus(city))
     println(full)
-    println(sub+""+subj)
-    println(bangla.plus(banglanum))
-    println(shortname[0])
-    println(shortname[1])
+    print(shortname[0])
+    print(shortname[1])
     println(shortname[2])
     println("Score is $score")
     for (num in 0..100){
         println(num)
     }
-}
-
-fun test(name:String,number:Int){
-    println(name.plus( " "+"is" +" "+ number))
 }
 ````
 
