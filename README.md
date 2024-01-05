@@ -24,22 +24,21 @@ fun myFunction(name: String,number: Int){
     
 }
 fun main() {
-    myFunction("Age ",14)
-    val firstname =("IMTIAZ")
-    val lastname =("MOHIN")
+    myFunction("Age ","Nope")
+    val tname =("IMTIAZ")
     var shortname: String = ("I,M")
     var cityname = ("City:")
     var city = "Chattogram"
-    var citylocation = "Bayazid Bostami"
+    var citylocation = "Nope"
     val classx =("Class:")
-    val c = 8
+    val c = "Nope"
     val full=(classx+c)
     var sub="Subject:"
     var subj= 14
     val bangla =("Exgam Number:")
     var banglanum = 100
     var score=("Null")
-    println("My Name Is $firstname $lastname")
+    println("My Name Is $name")
     println(cityname.plus(city + "," + citylocation))
     println(full)
     println(sub+""+subj)
