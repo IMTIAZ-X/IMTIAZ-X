@@ -10,6 +10,20 @@
 <div align="center">I am a new programmer.</div>
 <br>
 
+<p align="center"><img align="center" width="60" src="https://skillicons.dev/icons?i=kotlin&theme=light"/></p>
+
+### IMTIAZ
+### About Me
+> I am From My Home <br>
+Currently Exploring
+	
+### 🛠 My Skills :
+[![My Skills](https://skillicons.dev/icons?i=kotlin,c,cs,cpp,cmake,dart,github,replit,&perline=4)](https://skillicons.dev)
+### 🛠 My Tools :
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,flutter,unreal,unity,visualstudio,vscode,&theme=light)](https://skillicons.dev)
+
+<br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+IMTIAZ-X+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;It's+my+real+github+account+😇;Please+Follow+My+GitHub+;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
 
 <h3 align="left">About Me :</h3>
